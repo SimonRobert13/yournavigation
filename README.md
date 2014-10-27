@@ -1,5 +1,8 @@
 # Yournavigation
 
+[![Build Status](https://travis-ci.org/r-ideas/yournavigation.svg)](https://travis-ci.org/r-ideas/yournavigation)
+[![Code Climate](https://codeclimate.com/github/r-ideas/yournavigation/badges/gpa.svg)](https://codeclimate.com/github/r-ideas/yournavigation)
+
 API wrapper for http://yournavigation.org
 
 ## Installation
