@@ -18,8 +18,8 @@ Gem::Specification.new do |spec|
   spec.test_files    = spec.files.grep(%r{^(test|spec|features)/})
   spec.require_paths = ['lib']
 
-  spec.add_dependency 'httparty', '~> 0.13.1'
-  spec.add_dependency 'hashie', '~> 3.3.1'
+  spec.add_dependency 'httparty'
+  spec.add_dependency 'hashie'
   spec.add_dependency 'activesupport'
 
   spec.add_development_dependency 'bundler', '~> 1.7'
