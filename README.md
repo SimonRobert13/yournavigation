@@ -1,5 +1,6 @@
 # Yournavigation
 [![Gem Version](https://badge.fury.io/rb/yournavigation.svg)](http://badge.fury.io/rb/yournavigation)
+[![Dependency Status](https://gemnasium.com/r-ideas/yournavigation.svg)](https://gemnasium.com/r-ideas/yournavigation)
 [![Build Status](https://travis-ci.org/r-ideas/yournavigation.svg)](https://travis-ci.org/r-ideas/yournavigation)
 [![Code Climate](https://codeclimate.com/github/r-ideas/yournavigation/badges/gpa.svg)](https://codeclimate.com/github/r-ideas/yournavigation)
 [![Test Coverage](https://codeclimate.com/github/r-ideas/yournavigation/badges/coverage.svg)](https://codeclimate.com/github/r-ideas/yournavigation)
